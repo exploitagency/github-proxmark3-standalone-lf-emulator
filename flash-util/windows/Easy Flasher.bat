@@ -42,7 +42,7 @@ echo ^(3^)Proxbrute with updated cdc bootrom
 echo      "proxbrute-w-cdc-firmware\bootrom.elf"
 echo ^(4^)Mattys Mifare Standalone Mode bootrom
 echo      "mattys-mifare-firmware\bootrom.elf"
-echo ^(5^)Iceman Fork bootrom
+echo ^(5^)Iceman Experimental Fork bootrom
 echo      "iceman-fork\bootrom.elf"
 echo ^(6^)Marshmellow Fork bootrom
 echo      "marshmellow-fork\bootrom.elf"
@@ -140,7 +140,7 @@ echo ^(3^)Proxbrute with updated cdc fullimage
 echo      "proxbrute-w-cdc-firmware\fullimage.elf"
 echo ^(4^)Mattys Mifare Standalone Mode fullimage
 echo      "mattys-mifare-firmware\fullimage.elf"
-echo ^(5^)Iceman Fork fullimage
+echo ^(5^)Iceman Experimental Fork fullimage
 echo      "iceman-fork\fullimage.elf"
 echo ^(6^)Marshmellow Fork fullimage
 echo      "marshmellow-fork\fullimage.elf"

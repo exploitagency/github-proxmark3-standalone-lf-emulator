@@ -9,7 +9,8 @@ Included Firmware:<br>
 4)Matty's Mifare Standalone Mode<br>
 5)Iceman's Fork<br>
 6)Marshmellow's Fork<br>
-7)Custom User Defined Firmware(Put your firmware in this folder)<br>
+7)federicodotta's Fork(HID Corporate 1000 Standalone Brute Forcer)<br>
+9)Custom User Defined Firmware(Put your firmware in this folder)<br>
 <br>
 I recommend using the Windows "Easy Flasher" tool I wrote for switching between firmware.<br>
 Although I have also included a precompiled linux version of the flasher as well for 64bit Debian machines(Kali Rolling-Edition).<br>

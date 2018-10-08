@@ -1,7 +1,7 @@
 <pre>
 This is the "modded" firmware with standalone LF emulation and standalone cloning enabled.
 Dated: 10-7-2018
-Commit: 
+Commit: ac8a2fded168f1045abf1b227ce2db544479c58f
 
 This is what you want to flash if you don't have standalone LF emulation.
 

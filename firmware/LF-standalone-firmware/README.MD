@@ -10,7 +10,8 @@ The only mod is removal of HF standalone emulation mode from the makefile thus e
 
 Also if you want to compile the firmware yourself with LF standalone emulation mode enabled:
 Follow general compiling instructions listed in ../../COMPILING-INSTRUCTIONS-KALI-2016.MD plus modify the makefile
- On older versions of the proxmark software you will need to odify /armsrc/Makefile
+
+On older versions of the proxmark software you will need to modify /armsrc/Makefile
 On line 13 remove "-DWITH_ISO14443a_StandAlone"
 
 On newer versions of the proxmark software you will need to modify /common/Makefile_Enabled_Options.common 
